@@ -1,0 +1,10 @@
+Commit 1: Inicialização do projeto Vite + React
+Commit 2: Configuração Tailwind e PostCSS
+Commit 3: Adição do layout principal (App.jsx)
+Commit 4: Componente ProfileCard criado
+Commit 5: Componente ProfileModal criado
+Commit 6: SearchFilters criado
+Commit 7: Adicionado profiles.json com 20 perfis
+Commit 8: README inicial
+Commit 9: Ajustes de estilo e dark mode
+Commit 10: Preparação para entrega (zip)

@@ -1,0 +1,638 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Souza",
+    "foto": "https://randomuser.me/api/portraits/women/44.jpg",
+    "cargo": "Desenvolvedora Front-End",
+    "resumo": "Apaixonada por tecnologia e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Acessível",
+        "link": "https://",
+        "descricao": "Projeto de inclusão digital."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Lima",
+    "foto": "https://randomuser.me/api/portraits/men/32.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Focado em soluções sustentáveis e eficientes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Django"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC Minas",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema Verde",
+        "link": "https://",
+        "descricao": "Automação de processos ecológicos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Camila Ferreira",
+    "foto": "https://randomuser.me/api/portraits/women/65.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Cria experiências digitais centradas no usuário.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Prototipagem",
+      "Pesquisa de Usuário"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade"
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC PR",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App Saúde",
+        "link": "https://",
+        "descricao": "UX para app de saúde."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "João Martins",
+    "foto": "https://randomuser.me/api/portraits/men/58.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Transforma dados em decisões estratégicas.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Power BI",
+      "SQL"
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Raciocínio lógico"
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência de Dados",
+        "instituicao": "UFRGS",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Vendas",
+        "link": "https://",
+        "descricao": "Dashboard para KPIs."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Beatriz Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/12.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Lidera equipes ágeis com foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Kanban",
+      "Jira"
+    ],
+    "softSkills": [
+      "Organização",
+      "Liderança"
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Lançamento Produto",
+        "link": "https://",
+        "descricao": "Produto do zero."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Rafael Nogueira",
+    "foto": "https://randomuser.me/api/portraits/men/11.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Apaixonado por aprendizado de máquina e IA.",
+    "localizacao": "São Paulo/SP",
+    "area": "Inteligência Artificial",
+    "habilidadesTecnicas": [
+      "Python",
+      "TensorFlow",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Análise crítica",
+      "Curiosidade"
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Classificador de Texto",
+        "link": "https://",
+        "descricao": "Projeto acadêmico."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Larissa Gomes",
+    "foto": "https://randomuser.me/api/portraits/women/71.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Focada em bem-estar e cultura organizacional.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Treinamento"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação"
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "UFC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Bem-estar",
+        "link": "https://",
+        "descricao": "Iniciativa interna."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Gustavo Azevedo",
+    "foto": "https://randomuser.me/api/portraits/men/83.jpg",
+    "cargo": "Engenheiro DevOps",
+    "resumo": "Automatiza processos e otimiza pipelines.",
+    "localizacao": "Brasília/DF",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Proatividade"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "UnB",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline CI/CD",
+        "link": "https://",
+        "descricao": "Automação de deploys."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Patrícia Andrade",
+    "foto": "https://randomuser.me/api/portraits/women/19.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Faz a ponte entre negócios e tecnologia.",
+    "localizacao": "Campinas/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Roadmaps",
+      "Jira"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Visão estratégica"
+    ],
+    "formacao": [
+      {
+        "curso": "Gestão de Projetos",
+        "instituicao": "Mackenzie",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Lançamento App",
+        "link": "https://",
+        "descricao": "Coordenação de produto."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Eduardo Oliveira",
+    "foto": "https://randomuser.me/api/portraits/men/41.jpg",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Cria soluções completas e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma E-commerce",
+        "link": "https://",
+        "descricao": "Sistema para vendas online."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Fernanda Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/women/55.jpg",
+    "cargo": "Cientista Ambiental",
+    "resumo": "Usa dados para promover sustentabilidade.",
+    "localizacao": "Manaus/AM",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": [
+      "GIS",
+      "Python"
+    ],
+    "softSkills": [
+      "Análise crítica",
+      "Trabalho em equipe"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Ambiental",
+        "instituicao": "UFAM",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Mapa de Risco",
+        "link": "https://",
+        "descricao": "Monitoramento ambiental."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Rodrigo Pires",
+    "foto": "https://randomuser.me/api/portraits/men/70.jpg",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Constrói pipelines de dados eficientes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Spark",
+      "SQL",
+      "AWS"
+    ],
+    "softSkills": [
+      "Organização",
+      "Detalhismo"
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Lago de Dados",
+        "link": "https://",
+        "descricao": "Armazenamento centralizado."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Juliana Castro",
+    "foto": "https://randomuser.me/api/portraits/women/77.jpg",
+    "cargo": "Professora de Programação",
+    "resumo": "Ensina tecnologia de forma inclusiva.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Python",
+      "Scratch",
+      "HTML"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Didática"
+    ],
+    "formacao": [
+      {
+        "curso": "Licenciatura em Computação",
+        "instituicao": "UFRJ",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Curso Online",
+        "link": "https://",
+        "descricao": "Aulas para iniciantes."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Vinícius Duarte",
+    "foto": "https://randomuser.me/api/portraits/men/14.jpg",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Integra sistemas complexos com eficiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "Arquitetura de Software",
+    "habilidadesTecnicas": [
+      "Microserviços",
+      "Azure",
+      "API Design"
+    ],
+    "softSkills": [
+      "Pensamento sistêmico",
+      "Comunicação"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Escalável",
+        "link": "https://",
+        "descricao": "Arquitetura para alta disponibilidade."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Mariana Faria",
+    "foto": "https://randomuser.me/api/portraits/women/34.jpg",
+    "cargo": "Psicóloga Organizacional",
+    "resumo": "Promove bem-estar e produtividade no trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Psicologia Organizacional",
+      "Gestão de Conflitos"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação"
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "UFMG",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Saúde Mental",
+        "link": "https://",
+        "descricao": "Apoio psicológico."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Thiago Mendes",
+    "foto": "https://randomuser.me/api/portraits/men/27.jpg",
+    "cargo": "QA Tester",
+    "resumo": "Garante a qualidade e estabilidade dos sistemas.",
+    "localizacao": "Campinas/SP",
+    "area": "Qualidade de Software",
+    "habilidadesTecnicas": [
+      "Cypress",
+      "Jest",
+      "Postman"
+    ],
+    "softSkills": [
+      "Detalhismo",
+      "Colaboração"
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "PUC Campinas",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Suite de Testes",
+        "link": "https://",
+        "descricao": "Automação de testes."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Gabriela Teixeira",
+    "foto": "https://randomuser.me/api/portraits/women/42.jpg",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Cria estratégias de engajamento online.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Analytics"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação"
+    ],
+    "formacao": [
+      {
+        "curso": "Publicidade e Propaganda",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Campanha Social",
+        "link": "https://",
+        "descricao": "Engajamento em redes."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "André Barbosa",
+    "foto": "https://randomuser.me/api/portraits/men/73.jpg",
+    "cargo": "Administrador de Redes",
+    "resumo": "Mantém a conectividade e segurança das redes.",
+    "localizacao": "Natal/RN",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Linux",
+      "Cisco",
+      "Firewall"
+    ],
+    "softSkills": [
+      "Organização",
+      "Foco"
+    ],
+    "formacao": [
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "IFRN",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Rede",
+        "link": "https://",
+        "descricao": "Sistema de gerenciamento."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Natália Vieira",
+    "foto": "https://randomuser.me/api/portraits/women/28.jpg",
+    "cargo": "Analista de Segurança da Informação",
+    "resumo": "Monitora ameaças e protege dados corporativos.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Pentest",
+      "SIEM",
+      "ISO 27001"
+    ],
+    "softSkills": [
+      "Ética",
+      "Responsabilidade"
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "UFSC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Resposta a Incidentes",
+        "link": "https://",
+        "descricao": "Playbook de segurança."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Pedro Carvalho",
+    "foto": "https://randomuser.me/api/portraits/men/90.jpg",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Cria aplicativos intuitivos e performáticos.",
+    "localizacao": "São Luís/MA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React Native",
+      "Expo",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Criatividade"
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFMA",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Entregas",
+        "link": "https://",
+        "descricao": "Aplicativo mobile."
+      }
+    ]
+  }
+]
