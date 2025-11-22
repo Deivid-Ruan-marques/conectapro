@@ -10,7 +10,7 @@
 
 ## Descrição
 
-SPA em React + Vite + Tailwind que simula uma rede profissional com 60 perfis fictícios.
+SPA em React + Vite + Tailwind que simula uma rede profissional com  20 perfis fictícios.
 🧩 Global Solution – Futuro do Trabalho
 
 FIAP – 2º Semestre • Web Development
@@ -23,7 +23,7 @@ Felipe Cordeiro – RM: 566518
 
 📘 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte da Global Solution, unindo Front-End e UX para criar uma SPA (Single Page Application) voltada ao tema "Futuro do Trabalho".
+Este projeto foi desenvolvido como parte da Global Solution, unindo Front-End e Web developer para criar uma SPA (Single Page Application) voltada ao tema "Futuro do Trabalho".
 
 Criamos uma plataforma que simula uma rede profissional com 20 perfis fictícios, permitindo que o usuário:
 
